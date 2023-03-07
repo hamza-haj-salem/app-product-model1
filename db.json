@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "4500",
+      "quantity": "40",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smart-Phone",
+      "price": "6500",
+      "quantity": "60",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "TV",
+      "price": "3500",
+      "quantity": "40",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "PC",
+      "price": "5500",
+      "quantity": "40",
+      "selected": false,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Samsung Tv",
+      "price": "7500",
+      "quantity": "99999",
+      "selected": true,
+      "available": false
+    }
+  ]
+}
